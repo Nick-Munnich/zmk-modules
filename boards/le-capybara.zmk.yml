@@ -1,0 +1,12 @@
+file_format: "1"
+id: le_capybara
+name: Le Capybara
+type: board
+arch: arm
+features:
+  - keys
+  - display
+  - encoders
+outputs:
+  - usb
+url: https://github.com/petejohanson/le-capybara-zmk-module
