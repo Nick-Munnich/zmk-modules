@@ -1,0 +1,11 @@
+file_format: "2"
+id: zmk-split-peripheral-output-relay
+name: "ZMK Split Peripheral Output Relay"
+type: enhancement
+url: https://github.com/badjeff/zmk-split-peripheral-output-relay
+murl: https://github.com/badjeff/zmk-split-peripheral-output-relay
+commit: eb7e41f465339077a285af4c05f93798ebb7ac27
+description: "This module adds an output relay for ZMK. This is an add-on for zmk-output-behavior-listener to broadcast output events to split peripheral(s) via BLE."
+documentation: README.md
+depends:
+  - zmk-output-behavior-listener

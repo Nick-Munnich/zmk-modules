@@ -1,0 +1,9 @@
+file_format: "2"
+id: supermini-nrf
+name: "Supermini nRF52840"
+type: alias
+url: https://wiki.icbbuy.com/doku.php?id=developmentboard:nrf52840
+description: "A cheap yet somewhat unreliable knockoff version of the Nice!Nano version 2 development board."
+documentation: README.md
+parent: "nice_nano"
+parent_revision: "v2"

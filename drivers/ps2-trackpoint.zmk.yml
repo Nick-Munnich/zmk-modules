@@ -1,0 +1,10 @@
+file_format: "2"
+id: ps2-trackpoint
+name: "PS/2 Trackpoint Driver"
+type: driver
+url: https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver
+murl: https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver
+commit: c43a0365183c58f74c285c585e0cbc1ea99f8a12
+description: "A driver module that adds support for PS/2 mouse-pointing devices to DIY keyboards running the zmk firmware."
+documentation: README.md
+pull-request: 2027
