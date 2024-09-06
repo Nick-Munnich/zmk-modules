@@ -1,0 +1,7 @@
+remotes:
+  - name: grassfedreeve
+    url: https://github.com/grassfedreeve/zmk-keyboards-akohekohe
+versions:
+  - remote: grassfedreeve
+    zmk: "0.1.0"
+    commit: d82f1eae02d2248de7b23157b09a21fbd0849c89
